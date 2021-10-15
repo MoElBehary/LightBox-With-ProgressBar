@@ -1,0 +1,18 @@
+/* container background*/
+.uCT-img-contain {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+/* icon size */
+.iCT-sA {
+  width: 24px;
+  height: 24px;
+}
+/* lightBox message  */
+.CT-flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
